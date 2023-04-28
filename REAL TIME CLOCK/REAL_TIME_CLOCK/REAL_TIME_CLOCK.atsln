@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "REAL_TIME_CLOCK", "REAL_TIME_CLOCK\REAL_TIME_CLOCK.cproj", "{EFD98A08-F19C-4310-AFFB-0EE4ADBB8CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD98A08-F19C-4310-AFFB-0EE4ADBB8CC0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EFD98A08-F19C-4310-AFFB-0EE4ADBB8CC0}.Debug|AVR.Build.0 = Debug|AVR
+		{EFD98A08-F19C-4310-AFFB-0EE4ADBB8CC0}.Release|AVR.ActiveCfg = Release|AVR
+		{EFD98A08-F19C-4310-AFFB-0EE4ADBB8CC0}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

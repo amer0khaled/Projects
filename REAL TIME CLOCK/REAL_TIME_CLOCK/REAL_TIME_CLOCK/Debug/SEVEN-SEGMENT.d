@@ -1,0 +1,8 @@
+SEVEN-SEGMENT.d SEVEN-SEGMENT.o: .././SEVEN-SEGMENT.c .././DIO.h \
+ .././STD_MACROS.h .././SEVEN-SEGMENT.h
+
+.././DIO.h:
+
+.././STD_MACROS.h:
+
+.././SEVEN-SEGMENT.h:
